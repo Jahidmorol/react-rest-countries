@@ -1,0 +1,12 @@
+.country-container {
+    background-color: palevioletred;
+    padding: 1rem;
+    margin: 1rem 0.5rem;
+    border-radius: 0.5rem;
+    border: peru 5px solid;
+}
+
+.country-container img {
+    width: 55%;
+    border-radius: 0.3rem;
+}
